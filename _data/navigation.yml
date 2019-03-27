@@ -1,9 +1,9 @@
 # main links
 main:
-   # - title: "Quick-Start Guide"
-   #   url: /404/
-   # - title: "About"
-   #   url: /about/
+    - title: "Quick-Start Guide"
+      url: /404/
+    - title: "About"
+      url: /about/
    # - title: "Sample Posts"
    #   url: /year-archive/
    # - title: "Sample Collections"
