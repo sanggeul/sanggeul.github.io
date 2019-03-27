@@ -110,7 +110,7 @@ author:
   name             : "sanggeul"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello. Good to see you!"
-  location         : "South of Korea"
+  location         : "Seoul, South of Korea"
   #email            : "sanggeul.lee@gmail.com"
   links:
     - label: "Email"
