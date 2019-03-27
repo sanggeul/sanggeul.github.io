@@ -1,6 +1,6 @@
 ---
-#layout: posts
-title: hello-world
+layout: post
+title: "ello-world"
 ---
 
 Hi,
