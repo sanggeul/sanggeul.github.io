@@ -5,7 +5,7 @@ permalink: /about/
 
 Hello!
 
-Nice to meet you.
+Nice to meet you
 
-1.
+1
 
