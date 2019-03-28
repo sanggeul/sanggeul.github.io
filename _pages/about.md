@@ -3,4 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Hello, nice to meet you.
+Hello!
+
+Nice to meet you.
+
+1.
+
