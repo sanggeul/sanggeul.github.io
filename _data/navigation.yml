@@ -2,7 +2,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Category-Archive"
+  - title: "Tags"
+    url: /categories/
+  - title: "Categories"
     url: /categories/
   - title: "Sitemap"
     url: /sitemap/
